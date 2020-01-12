@@ -27,23 +27,24 @@ Server runs on http://localhost:3000/
 
 ### GET /questions:
 
-###### Set drop-down to "GET"
+1. Set drop-down to "GET"
 
-###### Input "questions" into the URL text box
+2. Input "questions" into the URL text box
 
-###### You can use the following URL queries:
-1. limit - Sets the amount of questions that will be produced (ex "?limit=10")
-2. difficulty - Sets the difficulty of questions produced (ex "?difficulty=3")
-   - 1 = easy
-   - 2 = medium
-   - 3 = hard
-3. category - Sets the category of questions produced (ex "?category=3")
-   - Try various numbers for different categories (ex 1-5)
-4. token - A uuidv4 unique ID used to pull a session of questions (ex "?token=test")
-   - Sessions are a saved set of questions
-   - I have provided a session called "test" for easy access
-5. These can be added in any order and are not required.
-6. If negative values are added for limit/difficulty/etc, the program will use the default values
+3. You can use the following URL queries:
+   - limit - Sets the amount of questions that will be produced (ex "?limit=10")
+   - difficulty - Sets the difficulty of questions produced (ex "?difficulty=3")
+     - 1 = easy
+     - 2 = medium
+     - 3 = hard
+   - category - Sets the category of questions produced (ex "?category=3")
+     - Try various numbers for different categories (ex 1-5)
+   - token - A uuidv4 unique ID used to pull a session of questions (ex "?token=test")
+     - Sessions are a saved set of questions
+     - I have provided a session called "test" for easy access
+
+These can be added in any order and are not required.
+If negative values are added for limit/difficulty/etc, the program will use the default values
 
 ### POST /sessions:
 
