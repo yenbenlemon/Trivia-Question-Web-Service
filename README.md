@@ -20,6 +20,8 @@ All data is locally stored.
 
 ## Instructions
 
+Start by downloading and unzipping the completed project.
+
 Run "node requestserver.js" in the cmd prompt while pointing to this folder
 Server runs on http://localhost:3000/
 
