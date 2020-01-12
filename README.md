@@ -20,9 +20,11 @@ All data is locally stored.
 
 ## Instructions
 
-Start by downloading and unzipping the completed project.
+- Download the project as a .zip
+- Some browsers may flag the filees due to the javascript. Simply keep the files in order to continue.
+- Run "npm i" in the cmd prompt while pointing to this folder. This will install all the required dependencies.
+- Run "node requestserver.js"
 
-Run "node requestserver.js" in the cmd prompt while pointing to this folder
 Server runs on http://localhost:3000/
 
 ### GET /questions:
