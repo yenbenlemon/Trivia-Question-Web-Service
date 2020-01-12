@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"hard","question":"What year was the United States Declaration of Independence signed?","correct_answer":"1776","incorrect_answers":["1775","1774","1777"],"category_id":7,"question_id":25,"difficulty_id":3}

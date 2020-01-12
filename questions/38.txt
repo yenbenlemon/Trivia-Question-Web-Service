@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"medium","question":"When was the People&#039;s Republic of China founded?","correct_answer":"October 1, 1949","incorrect_answers":["April 3, 1947","May 7, 1945","December 6, 1950"],"category_id":7,"question_id":38,"difficulty_id":2}

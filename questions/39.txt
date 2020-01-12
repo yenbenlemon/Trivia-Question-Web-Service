@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"medium","question":"Where did the pineapple plant originate?","correct_answer":"South America","incorrect_answers":["Hawaii","Europe","Asia"],"category_id":6,"question_id":39,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"hard","question":"In the game Nuclear Throne, what organization chases the player character throughout the game?","correct_answer":"The I.D.P.D","incorrect_answers":["The Fishmen","The Bandits","The Y.V.G.G"],"category_id":11,"question_id":20,"difficulty_id":3}

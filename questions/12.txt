@@ -1,0 +1,1 @@
+{"category":"Entertainment: Books","type":"multiple","difficulty":"easy","question":"Who wrote the novel &#039;Fear And Loathing In Las Vegas&#039;?","correct_answer":"Hunter S. Thompson","incorrect_answers":["F. Scott Fitzgerald","Henry Miller","William S. Burroughs"],"category_id":9,"question_id":12,"difficulty_id":1}

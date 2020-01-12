@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"hard","question":"Who was the original drummer for The Beatles?","correct_answer":"Tommy Moore","incorrect_answers":["Ringo Starr","Stuart Sutcliffe","Pete Best"],"category_id":8,"question_id":11,"difficulty_id":3}

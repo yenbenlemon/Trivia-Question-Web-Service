@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"hard","question":"Toussaint Louverture led a successful slave revolt in which country?","correct_answer":"Haiti","incorrect_answers":["France","Cuba","United States"],"category_id":7,"question_id":42,"difficulty_id":3}

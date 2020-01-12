@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"easy","question":"Which animated movie was first to feature a celebrity as a voice actor?","correct_answer":"Aladdin","incorrect_answers":["Toy Story","James and the Giant Peach","The Hunchback of Notre Dame"],"category_id":3,"question_id":3,"difficulty_id":1}

@@ -1,0 +1,1 @@
+{"category":"History","type":"multiple","difficulty":"easy","question":"Who discovered Penicillin?","correct_answer":"Alexander Flemming","incorrect_answers":["Marie Curie","Alfred Nobel","Louis Pasteur"],"category_id":7,"question_id":7,"difficulty_id":1}

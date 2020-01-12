@@ -1,0 +1,1 @@
+{"category":"Science: Mathematics","type":"multiple","difficulty":"medium","question":"In a complete graph G, which has 12 vertices, how many edges are there?","correct_answer":"66","incorrect_answers":["67","34","11"],"category_id":1,"question_id":1,"difficulty_id":2}

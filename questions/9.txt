@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"easy","question":"What is the elemental symbol for mercury?","correct_answer":"Hg","incorrect_answers":["Me","Mc","Hy"],"category_id":4,"question_id":9,"difficulty_id":1}

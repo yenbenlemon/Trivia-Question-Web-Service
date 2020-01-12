@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Which restaurant&#039;s mascot is a clown?","correct_answer":"McDonald&#039;s","incorrect_answers":["Whataburger","Burger King","Sonic"],"category_id":6,"question_id":31,"difficulty_id":1}

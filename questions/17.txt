@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"medium","question":"A factiod is what?","correct_answer":"A falsehood","incorrect_answers":["Useless trivia","A tiny fact","A scientific figure"],"category_id":6,"question_id":17,"difficulty_id":2}

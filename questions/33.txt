@@ -1,0 +1,1 @@
+{"category":"Entertainment: Books","type":"multiple","difficulty":"medium","question":"In Michael Crichton&#039;s novel &quot;Jurassic Park&quot;, John Hammond meets his demise at the claws of which dinosaur?","correct_answer":"Procompsognathus","incorrect_answers":["Dilophosaurus","Tyrannosaurus Rex","Velociraptor"],"category_id":9,"question_id":33,"difficulty_id":2}

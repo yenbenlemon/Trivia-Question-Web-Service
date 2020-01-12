@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"How many normal endings are there in Cry Of Fear&#039;s campaign mode?","correct_answer":"4","incorrect_answers":["5","3","6"],"category_id":11,"question_id":23,"difficulty_id":2}

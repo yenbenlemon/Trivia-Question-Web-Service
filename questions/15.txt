@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?","correct_answer":"Kiefer Sutherland","incorrect_answers":["David Hayter","Norman Reedus","Hideo Kojima"],"category_id":11,"question_id":15,"difficulty_id":1}

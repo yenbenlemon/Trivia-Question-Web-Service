@@ -1,0 +1,1 @@
+{"category":"Science & Nature","type":"multiple","difficulty":"medium","question":"What polymer is used to make CDs, safety goggles and riot shields?","correct_answer":"Polycarbonate","incorrect_answers":["Rubber","Nylon","Bakelite"],"category_id":4,"question_id":19,"difficulty_id":2}

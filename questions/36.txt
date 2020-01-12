@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"What is the name of the first level in &quot;Call of Duty: World at War&quot;?","correct_answer":"Semper Fi","incorrect_answers":["Ring of Steel","Vendetta","Eviction"],"category_id":11,"question_id":36,"difficulty_id":2}

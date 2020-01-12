@@ -1,0 +1,1 @@
+{"category":"Entertainment: Books","type":"multiple","difficulty":"easy","question":"Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?","correct_answer":"John Green","incorrect_answers":["Stephenie Meyer","Suzanne Collins","Stephen Chbosky"],"category_id":9,"question_id":22,"difficulty_id":1}

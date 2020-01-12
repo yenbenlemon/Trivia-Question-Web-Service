@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"medium","question":"Which American family band had a 1986 top 10 hit with the song &#039;Crush On You&#039;?","correct_answer":"The Jets","incorrect_answers":["DeBarge","The Jacksons","The Cover Girls"],"category_id":8,"question_id":45,"difficulty_id":2}

@@ -1,0 +1,1 @@
+{"category":"Entertainment: Music","type":"multiple","difficulty":"easy","question":"Which band recorded the album &quot;Parallel Lines&quot;?","correct_answer":"Blondie","incorrect_answers":["Paramore","Coldplay","The Police"],"category_id":8,"question_id":40,"difficulty_id":1}

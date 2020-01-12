@@ -1,0 +1,1 @@
+{"category":"Entertainment: Video Games","type":"multiple","difficulty":"medium","question":"In the 2002 video game &quot;Kingdom Hearts&quot;, how many playable worlds were there?","correct_answer":"14","incorrect_answers":["13","16","11"],"category_id":11,"question_id":18,"difficulty_id":2}

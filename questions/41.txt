@@ -1,0 +1,1 @@
+{"category":"Entertainment: Film","type":"multiple","difficulty":"medium","question":"Which former Star Trek actor directed Three Men and a Baby (1987)?","correct_answer":"Leonard Nimoy","incorrect_answers":["William Shatner","George Takei","James Doohan"],"category_id":3,"question_id":41,"difficulty_id":2}

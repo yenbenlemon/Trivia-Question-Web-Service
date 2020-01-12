@@ -1,0 +1,1 @@
+{"category":"Celebrities","type":"multiple","difficulty":"hard","question":"What was the religion of famous singer &quot;Freddie Mercury&quot;?","correct_answer":"Zoroastrianism","incorrect_answers":["Paganism","Ashurism","Judaism"],"category_id":13,"question_id":21,"difficulty_id":3}

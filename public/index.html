@@ -1,0 +1,21 @@
+<html>
+	<head><title>Request Maker</title></head>
+	<body>
+		Method:
+		<select id="method">
+			<option value="GET">GET</option>
+			<option value="POST">POST</option>
+			<option value="PUT">PUT</option>
+			<option value="DELETE">DELETE</option>
+		</select>
+		<br>
+		URL: http://localhost:3000/<input type="textbox" id="url" size="50">
+		<br>
+		<br>
+		<button type="button" id="submit" onclick="makeRequest()">Submit</button>
+		<div id="response">
+		</div>
+	</body>
+
+	<script src="js/requestmaker.js"></script>
+</html>

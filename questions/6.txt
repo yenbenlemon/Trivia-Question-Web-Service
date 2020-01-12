@@ -1,0 +1,1 @@
+{"category":"General Knowledge","type":"multiple","difficulty":"easy","question":"Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?","correct_answer":"Cabbage Patch Kids","incorrect_answers":["Transformers","Care Bears","Rubik&rsquo;s Cube"],"category_id":6,"question_id":6,"difficulty_id":1}

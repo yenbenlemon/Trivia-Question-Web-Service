@@ -1,0 +1,1 @@
+{"category":"Geography","type":"multiple","difficulty":"hard","question":"Into which basin does the Jordan River flow into?","correct_answer":"Dead Sea","incorrect_answers":["Aral Sea","Caspian Sea","Salton Sea"],"category_id":10,"question_id":43,"difficulty_id":3}
