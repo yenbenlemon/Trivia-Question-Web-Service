@@ -36,6 +36,7 @@ Server runs on http://localhost:3000/
    - 2 = medium
    - 3 = hard
 3. category - Sets the category of questions produced (ex "?category=3")
+   - Try various numbers for different categories (ex 1-5)
 4. token - A uuidv4 unique ID used to pull a session of questions (ex "?token=test")
    - Sessions are a saved set of questions
    - I have provided a session called "test" for easy access
@@ -67,7 +68,7 @@ Server runs on http://localhost:3000/
 
 ### DELETE /sessions/:sessionid:
 
-  1. 1. Set drop-down to "DELETE"
+  1. Set drop-down to "DELETE"
 
   2. Input "sessions" into the URL text box
 
